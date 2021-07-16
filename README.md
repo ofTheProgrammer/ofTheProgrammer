@@ -1,4 +1,4 @@
 - Hi, I’m @ofTheProgrammer
 - I was born in 2006
 - My real name is Mikhail
-- I am a novice programmer, I hope you will like my work
+- I am a novice programmer, I hope you will like my works
